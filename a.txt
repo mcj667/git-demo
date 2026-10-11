@@ -1,2 +1,1 @@
-Hello.git
-second line
+line from master
